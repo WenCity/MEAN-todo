@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "method-override": "^2.3.10",
     "mongo": "^0.1.0",
-    "mongoose": "^4.10.8",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1"
   }
 }
